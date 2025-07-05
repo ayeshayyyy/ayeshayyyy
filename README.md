@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshayyyy&show_icons=true&locale=en" alt="ayeshayyyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshayyyy&" alt="ayeshayyyy" /></p>
+![snake gif](https://github.com/ayeshayyyy/ayeshayyyy/blob/output/github-snake-dark.svg)
