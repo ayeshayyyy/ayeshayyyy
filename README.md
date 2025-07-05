@@ -22,4 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshayyyy&show_icons=true&locale=en" alt="ayeshayyyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshayyyy&" alt="ayeshayyyy" /></p>
-![snake gif](https://github.com/ayeshayyyy/ayeshayyyy/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-snake.svg" />
+</picture>
