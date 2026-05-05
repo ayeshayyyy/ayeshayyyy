@@ -24,13 +24,14 @@
 
 ### 📊 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshayyyy&theme=radical&hide_border=true" alt="ayeshayyyy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshayyyy&theme=radical&hide_border=true" alt="ayeshayyyy streak" />
 </p>
 
+<h3 align="center">Snake Contribution Map</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ayeshayyyy/ayeshayyyy/output/github-snake.svg" />
   </picture>
 </p>
